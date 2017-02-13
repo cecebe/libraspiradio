@@ -3,8 +3,8 @@ package de.winter.libraspiradio.radio.dab;
 import java.util.ArrayList;
 import java.util.List;
 
-import raspiradio.helper.Execute;
-import raspiradio.helper.Execute.ExecResult;
+import de.winter.libraspiradio.helper.Execute;
+import de.winter.libraspiradio.helper.Execute.ExecResult;
 
 public class DABRadio implements IDABRadio {
 
